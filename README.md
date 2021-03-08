@@ -1,2 +1,4 @@
 # react-electron-boilerplate
-React electron boilerplate with tailwind css
+React electron boilerplate
+
+Warning : uncomment env line in the .gitignore (line 72)
